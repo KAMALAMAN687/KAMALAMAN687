@@ -1,0 +1,18 @@
+#include<stdio.h>
+#include<stdlib.h>
+#include<string.h>
+void main(){
+    FILE *fp = NULL;
+    
+    char str[100]/*  = "Hello this is my first program for file handling." */;
+    fp = fopen("abc.txt","a");
+    if(fp == NULL){
+        printf("ERROR");
+        exit(1);
+    }
+    printf("Enter a string here: ");
+    gets(str);
+    fprintf(fp,"\n%s",str);
+    fclose(fp);
+
+}
