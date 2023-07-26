@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on best platform which give me some extra knowledge in specific stream...
 - 📫 How to reach me ?
  Mail 💌 us: kamalaman687@gmail.com
-DM ON Instagram : kamalaman687.
+DM ON Instagram : _kamal_aman__
 
 
 <!---
